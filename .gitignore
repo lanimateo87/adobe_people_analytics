@@ -1,0 +1,15 @@
+# Power BI temp files
+*.pbix.tmp
+*.pbix.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
