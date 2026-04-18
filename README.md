@@ -90,4 +90,4 @@ adobe-people-analytics/
 
 ## Contact
 
-Lani Mateo — lanimateo@outlook.com
+Lani Mateo — lanimateo@gmail.com
