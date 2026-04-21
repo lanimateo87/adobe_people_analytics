@@ -85,8 +85,8 @@ adobe-people-analytics/
 
 ## Links
 
-- **GitHub**: [this repo]
-- **Power BI Service**: [workspace link]
+- **GitHub**: [https://github.com/lanimateo87/adobe_people_analytics]
+- **Power BI Service**: [https://app.powerbi.com/view?r=eyJrIjoiNTIxMTMyMDItZTg1MC00YmZhLWE3ZmEtM2VlNmI1ZGY3Yjc5IiwidCI6IjdkOTI5ZTYxLTlhOTItNGUyNC1iMjQwLWYzNGI3ZjUzYTZlZSIsImMiOjZ9]
 
 ## Contact
 
